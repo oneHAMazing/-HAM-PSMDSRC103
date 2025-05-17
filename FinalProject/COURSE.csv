@@ -1,0 +1,13 @@
+CCODE,CDESC,UNITS,DEPTCODE
+BIO101,General Biology,3,BIO
+BIO201,Human Anatomy and Physiology,3,BIO
+CHEM101,General Chemistry,5,CHEM
+CHEM201,Organic Chemistry,5,CHEM
+CS101,Introduction to Computer Science,3,CS
+CS201,Data Structures and Algorithms,3,CS
+CS301,Database Systems,3,CS
+MATH101,College Algebra,5,MATH
+MATH201,Calculus I,3,MATH
+MATH301,Calculus II,3,MATH
+PHY101,General Physics I,3,PHY
+PHY201,General Physics II,3,PHY

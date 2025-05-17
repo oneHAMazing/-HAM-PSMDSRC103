@@ -1,0 +1,11 @@
+EMPID,TITLE,FNAME,LNAME,DEPTCODE,EMAIL,PHONE
+TSE659,Dr,Eva,Brown,BIO,Eva.Brown@theschool.edu.ph,09172345678
+TSE643,Dr,Jason,Turner,BIO,Jason.Turner@theschool.edu.ph,09987654321
+TSE469,Dr,David,Kim,CHEM,David.Kim@theschool.edu.ph,09271234567
+TSE191,Dr,Irene,Thomas,CHEM,Irene.Thomas@theschool.edu.ph,09068765432
+TSE526,Dr,Alice,Johnson,CS,Alice.Johnson@theschool.edu.ph,09183456789
+TSE479,Dr,Frank,White,CS,Frank.White@theschool.edu.ph,09519876543
+TSE139,Dr,Bob,Smith,MATH,Bob.Smith@theschool.edu.ph,09051122334
+TSE858,Dr,Grace,Black,MATH,Grace.Black@theschool.edu.ph,09954433221
+TSE916,Dr,Carol,Lee,PHY,Carol.Lee@theschool.edu.ph,09196677889
+TSE800,Dr,Henry,Green,PHY,Henry.Green@theschool.edu.ph,09362241188
